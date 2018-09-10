@@ -13,8 +13,6 @@ def first_challenge
     }
   }
 
-contacts["Jon Snow"][:favorite_icecream_flavors] = "mint chip"
 
-contacts
 end
 
